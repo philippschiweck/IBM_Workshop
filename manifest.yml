@@ -1,0 +1,5 @@
+applications:
+ - name: nifty-chandrasekhar
+   memory: 256M
+   host: nifty-chandrasekhar
+   buildpack: staticfile_buildpack
